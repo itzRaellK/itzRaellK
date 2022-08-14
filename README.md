@@ -1,1 +1,1 @@
-- Hello, my name is Israel and I'm studying hard to become a great professional in Data Science.
+- Hi! Here you will find codes and projects I've worked on, whether personal or professional.
