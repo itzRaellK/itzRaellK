@@ -1,4 +1,4 @@
-<h6 align="center">About me</h6>
+<h4 align="center">About me</h4>
 
 ###
 
@@ -7,14 +7,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzRaellK&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzRaellK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzRaellK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Status" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzRaellK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=dark&hide_border=true&order=2&custom_title=Programming%20Languages" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=itzRaellK&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
 
-<h6 align="center">My knowledge</h6>
+<h6 align="center">------------------------------------------------------------------------------------</h6>
+
+###
+
+<h4 align="center">My knowledge</h4>
 
 ###
 
@@ -56,7 +60,11 @@
 
 ###
 
-<h6 align="center">My contacts</h6>
+<h6 align="center">------------------------------------------------------------------------------------</h6>
+
+###
+
+<h4 align="center">My contacts</h4>
 
 ###
 
